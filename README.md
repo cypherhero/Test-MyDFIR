@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+My journey into cybersecurity has been driven by a passion for problem-solving and a desire to protect digital spaces from growing threats. With a solid foundation as a Vulnerability Scanner Specialist and certifications from Google Cybersecurity and CompTIA Security+, I've transitioned from teaching to securing networks, determined to make an impact in the ever-evolving world of cyber defense. Every challenge fuels my commitment to identifying vulnerabilities and empowering organizations to build stronger, more resilient security infrastructures. This path has allowed me to combine analytical thinking with my drive to safeguard the digital future, one system at a time.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join as a Cyber Security Consultant.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -46,7 +46,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -58,3 +57,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- VMDR Qualys Guard
